@@ -38,6 +38,7 @@ namespace IntegerDataTypes
             int changealtitude = secondAltitude - firstAltitude;
             Console.WriteLine("The change of altitude is " + changealtitude);
 
+
         }
     }
 }
