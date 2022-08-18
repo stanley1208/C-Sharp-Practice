@@ -67,7 +67,6 @@ namespace ProgrammingAssignment3
                 Console.WriteLine(player1Card1.Rank + "," + player1Card1.Suit);
                 Console.WriteLine(player1Card2.Rank + "," + player1Card2.Suit);
                  
-
                 // print the cards for player 2
                 Console.WriteLine(player2Card1.Rank + "," + player2Card1.Suit);
                 Console.WriteLine(player2Card2.Rank + "," + player2Card2.Suit);
